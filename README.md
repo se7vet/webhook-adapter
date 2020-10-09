@@ -1,3 +1,5 @@
+##### 在基础上略作修改，符合使用需求
+
 # webhook-adapter
 ```bash
 node index.js --port=8080 --adapter=./prometheusalert/wx.js=/wx=https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key={key} --adapter=./prometheusalert/dingtalk.js=/dingtalk=https://oapi.dingtalk.com/robot/send?access_token={token}#{secret}

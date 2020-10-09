@@ -1,4 +1,5 @@
-##### 在基础上略作修改，符合使用需求
+forked from :  https://github.com/guyongquan/webhook-adapter    在原作者基础上略作修改后符合使用需求,仅作存档.
+
 
 # webhook-adapter
 ```bash
